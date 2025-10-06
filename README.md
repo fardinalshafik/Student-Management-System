@@ -1,6 +1,6 @@
 # Student Management System
 
-This project is a Student Management System developed in C++ using Object-Oriented Programming principles. The system allows for basic operations to manage student records and enrollments. This is a Group Project.The other contributors are Opsora Ahmed, Jannatun Naim, Md. Sabbir Ahmed Rasel, Antu Kumar Das.
+This project is a Student Management System developed in C++ using Object-Oriented Programming principles. The system allows for basic operations to manage student records and enrollments. This is a Group Project. The other contributors are Opsora Ahmed, Jannatun Naim, Md. Sabbir Ahmed Rasel, Antu Kumar Das.
 
 ## Features
 
