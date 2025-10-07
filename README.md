@@ -10,9 +10,9 @@ This project is a Student Management System developed in C++ using Object-Orient
 - **Display information of all students:** Show a list of all students and their details.
 - **Quit:** Exit the application.
 
-## Compilation
+## Project Report
 
-To compile the project, use the following command in your terminal:
+[project report.pdf](https://drive.google.com/file/d/1wZmh-T1QcQyuNl_2q-KjR6y9FC5326pW/view?usp=drive_link)
 
-```bash
-g++ studentmanagement.cpp -o studentmanagement
+## GitHub Link
+[GitHub Repository](https://github.com/fardinalshafik/Student-Management-System)
